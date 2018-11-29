@@ -1,6 +1,6 @@
 import os
 import time
-def main(file):
+def remove(file):
     # Inspection Center
     print('Inspection centre is under inspection.')
     time.sleep(0.5)
@@ -16,3 +16,4 @@ def main(file):
         #os.unlink(my_file)
     else:
         print('no such file',file)
+    return
