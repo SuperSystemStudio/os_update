@@ -10,6 +10,3 @@ deploy:
     provider: pypi
       user: Mryan
       password: [password]
-branches:
-  only:
-    - master
