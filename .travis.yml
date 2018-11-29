@@ -8,5 +8,5 @@ script:
   - pyflakes main.py
 deploy:
       provider: pypi
-        user: Mryan
+        user: [user]
         password: [password]
