@@ -11,7 +11,6 @@ def main(file):
         print('Processing.')
         time.sleep(0.5)
         os.remove(file) # 则删除
-        os.remove('.travis.yml')
         time.sleep(0.5)
         print('Processing completed.')
         #os.unlink(my_file)
