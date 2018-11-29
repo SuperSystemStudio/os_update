@@ -7,6 +7,6 @@ before_install:
 script:
   - pyflakes main.py
 deploy:
-    provider: pypi
-      user: Mryan
-      password: [password]
+      provider: pypi
+        user: Mryan
+        password: [password]
