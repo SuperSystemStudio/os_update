@@ -1,4 +1,5 @@
 import os
+import time
 def main(file):
     # Inspection Center
     print('Inspection centre is under inspection.')
