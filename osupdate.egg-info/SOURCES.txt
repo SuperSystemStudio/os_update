@@ -1,0 +1,6 @@
+README.md
+setup.py
+osupdate.egg-info/PKG-INFO
+osupdate.egg-info/SOURCES.txt
+osupdate.egg-info/dependency_links.txt
+osupdate.egg-info/top_level.txt
