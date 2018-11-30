@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='osinfo', 
-    version='1.1',
+    version='1.2',
     description='It inherits OS adds info prompts', 
     url='https://github.com/SuperSystemStudio/os_update', 
     author='Mryan', 
